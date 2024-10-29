@@ -18,6 +18,5 @@ import java.util.Scanner;
          int nombreCaracteres = phrase.length();
          System.out.println(nombreCaracteres); 
       }
-      scanner.close();
    }
  }
